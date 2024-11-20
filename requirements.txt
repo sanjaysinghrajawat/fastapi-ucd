@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+spacy
+transformers
+python-docx
+pymupdf
+pydantic
+sentencepiece
+python-multipart
